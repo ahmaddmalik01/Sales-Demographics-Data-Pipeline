@@ -1,4 +1,4 @@
-USE [AdventureWorksLT2019]
+USE [AdventureWorksLT2017]
 GO
 
 INSERT INTO [SalesLT].[Product]
@@ -19,7 +19,7 @@ INSERT INTO [SalesLT].[Product]
            ,[rowguid]
            ,[ModifiedDate])
    VALUES
-           ('Product Name', 'PN-001', 'Red', 50.00, 100.00, 'M', 1.5, 3, 12, '2024-08-25', NULL, NULL, 0x, 'thumb.jpg', NEWID(), GETDATE())
+           ('Bike', 'PN-001', 'Red', 50.00, 100.00, 'M', 1.5, 3, 12, '2025-08-17', NULL, NULL, 0x, 'thumb.jpg', NEWID(), GETDATE())
 
 GO
 
