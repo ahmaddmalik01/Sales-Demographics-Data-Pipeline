@@ -1,3 +1,3 @@
-USE AdventureWorksLT2019;
+USE AdventureWorksLT2017;
 
 GRANT SELECT ON SCHEMA::SalesLT TO mrk;
