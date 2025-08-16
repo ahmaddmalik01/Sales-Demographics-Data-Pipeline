@@ -1,3 +1,3 @@
-CREATE LOGIN luke WITH PASSWORD = '123456789'
+CREATE LOGIN Ahmad WITH PASSWORD = '1234'
 
-create user luke for login luke
+create user Ahmad for login Ahmad
